@@ -12,11 +12,11 @@ This repository contains three different Python scripts that analyze the diabete
 
 To use these scripts, you will need to install the following packages:
 
-pandas
-sklearn
-numpy
-tensorflow
-gensim
+pandas,
+sklearn,
+numpy,
+tensorflow,
+gensim,
 matplotlib
 
 ## Usage
@@ -42,7 +42,7 @@ This script uses Word2Vec to embed the diagnosis codes and trains a neural netwo
 
 ## [Execuation](#Execution)
 
-The model [Deepr_Project.ipynb](./Deepr_Project.ipynb) can be run from jupytor notebook or google colab. If running from google colab the dataset file [diabetic_data.csv] needs to be uploaded in google colab directory
+The model [Deepr_Project.ipynb](./Deepr_Project.ipynb) can be run from jupytor notebook or google colab. If running from google colab the dataset file [diabetic_data.csv](./diabetic_data.csv) needs to be uploaded in google colab directory
 
 
 
